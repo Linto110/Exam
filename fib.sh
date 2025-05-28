@@ -1,3 +1,4 @@
+#Fibonocci numbers upto a limit
 if [ $# -ne 1 ];then
 	echo "syntax $0 <num>"
 	exit 1
